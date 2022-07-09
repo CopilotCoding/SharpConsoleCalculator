@@ -16,3 +16,4 @@ This may be very slow if you go over 100,000 digits of PI.
 
 # Known problems
 No support for brackets, exponents, multiple operators with arbitrary sized numbers, other complex math, and whitespace.
+There is also a problem with System.Numerics not being used even with a using statement of it. Not sure why but its easy to fix.
