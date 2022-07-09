@@ -1,5 +1,5 @@
 # ConsoleCalculatorSharp
-A simple calculator which can calculate addition, subtraction, multiplication, division, and PI.
+A simple C# calculator made with a .NET framework console project template which can calculate addition, subtraction, multiplication, division, and PI.
 
 # Building
 Create a new .NET framework console project and add this code to it.
