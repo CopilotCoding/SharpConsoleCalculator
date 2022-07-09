@@ -58,7 +58,7 @@ namespace ConsoleCalculator
                         BigMath();
                         break;
                     case three:
-                        Experiment();
+                        CalculatePi();
                         break;
                     case "":
                         Exit();
