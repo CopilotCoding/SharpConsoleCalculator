@@ -1,7 +1,10 @@
 # ConsoleCalculatorSharp
 A simple calculator which can calculate addition, subtraction, multiplication, division, and PI.
 
-# Manual
+# Building
+Create a new .NET framework console project and add this code to it.
+
+# Usage
 If you enter 1 in the console, you can do simple math on regular sized numbers of any amount of operators.
 No support for multiple operators or complex math.
 
