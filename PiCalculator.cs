@@ -1,4 +1,4 @@
-namespace ConsoleCalculator
+namespace CalculatorConsole
 {
     using System;
     using System.Diagnostics;
