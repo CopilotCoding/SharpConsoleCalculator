@@ -62,7 +62,7 @@ namespace CalculatorConsole
     }
 
     /// <summary>
-    /// All credits to the unknown coder who made this found here: https://latkin.org/blog/2012/03/20/how-to-calculate-1-million-digits-of-pi/
+    /// All credits to the author https://github.com/latkin of this pi algorithm found here: https://latkin.org/blog/2012/03/20/how-to-calculate-1-million-digits-of-pi/
     /// This person is a saint and this algorithm is amazing.
     /// This calculated 100,000 digits of pi in 30 seconds on my potato hardware in a regular single thread.
     /// </summary>
