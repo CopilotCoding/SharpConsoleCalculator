@@ -14,6 +14,8 @@ No support for multiple operators or complex math.
 If you enter 3 in the console, you can calculate PI to the entered digits.
 This may be very slow if you go over 100,000 digits of PI.
 
+# All credits to the unknown coder who made this found here: https://latkin.org/blog/2012/03/20/how-to-calculate-1-million-digits-of-pi/
+    
 # Known problems
 No support for brackets, exponents, multiple operators with arbitrary sized numbers, other complex math, and whitespace.
 
