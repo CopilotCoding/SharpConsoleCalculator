@@ -22,3 +22,5 @@ https://latkin.org/blog/2012/03/20/how-to-calculate-1-million-digits-of-pi/
 No support for brackets, exponents, multiple operators with arbitrary sized numbers, other complex math, and whitespace.
 
 There is also a problem with System.Numerics not being used even with a using statement of it. Not sure why but its easy to fix.
+
+# Created using github copilot while it was free
